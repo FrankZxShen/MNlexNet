@@ -1,6 +1,6 @@
-# MNIST-AlexNet(MNlexNet-pytorch)
+# MNIST-MNlexNet(MNlexNet-pytorch)
 
-This is the PyTorch version repository for MNIST dataset identification.
+This is the PyTorch version repository for MNIST dataset identification. You can access the repository from https://github.com/FrankZxShen/MNlexNet.
 
 ## Prerequisites
 
