@@ -56,7 +56,7 @@ python othermodels.py
 
 You can see the accuracy, precision, recall and f1 scores of SVM, Decision Tree (ID3), Polynomial Bayes and KNN compared.
 
-The best trained models are in the model folder.
+The best trained model is in the model folder.
 
 ## Testing Process
 
